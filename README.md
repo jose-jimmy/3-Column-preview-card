@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/jose-jimmy/3-Column-preview-card)
+- Live Site URL:(https://3-column-preview-card-rho-ten.vercel.app/)
 
 ## My process
 
